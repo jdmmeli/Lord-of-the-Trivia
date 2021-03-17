@@ -27,7 +27,7 @@ let destination;
            <h1>Your journey has come to it's end</h1>
            <h3>Score:  {score} / {Questions.length}</h3>
            <h2>{destination}</h2>
-           <button onClick={restart}>Restart Quiz</button>
+           <button onClick={restart}>Restart Journey</button>
        </div>
     )
 }
