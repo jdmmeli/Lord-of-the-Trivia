@@ -15,9 +15,9 @@ let destination;
    } else if (score >= 6 && score < 8) {
        destination = "Hail, and welcome to Numenor, hardy traveler!"
    } else if (score >= 4 && score < 6) {
-       destination = "Rest from your struggles here in Rivendell, weary traveler."
+       destination = "Rest from your struggles here in Rivendell, weary traveler!"
    } else if (score >= 2 && score < 4) {
-       destination = "You were lost in the pits of Goblin Town"
+       destination = "You were lost in the pits of Goblin Town!"
    } else {
        destination = "You didn't make it past Frogmorton!"
    }

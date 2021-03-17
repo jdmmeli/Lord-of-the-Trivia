@@ -8,8 +8,7 @@ function MainMenu() {
         <div className="Menu">
             <h1>Mae govannen!</h1>
             <h2>You are in Hobbiton</h2>
-            <button 
-              onClick={() => {setGameState("quiz")}}
+            <button onClick={() => {setGameState("quiz")}}
             >Begin Your Journey
             </button>
         </div>
