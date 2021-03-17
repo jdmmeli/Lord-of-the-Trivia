@@ -11,15 +11,15 @@ function EndScreen() {
     }
 let destination;
    if(score >= 8) {
-       destination = "Welcome to Valinor!"
+       destination = "Behold, Valinor! The Undying Lands!"
    } else if (score >= 6 && score < 8) {
-       destination = "You have made it to Numenor!"
+       destination = "Hail, and welcome to Numenor, hardy traveler!"
    } else if (score >= 4 && score < 6) {
-       destination = "Rest here in Rivendell, weary traveler."
+       destination = "Rest from your struggles here in Rivendell, weary traveler."
    } else if (score >= 2 && score < 4) {
-       destination = "You didn't get past Frogmorton!"
+       destination = "You were lost in the pits of Goblin Town"
    } else {
-       destination = "Lost in Goblin Town!"
+       destination = "You didn't make it past Frogmorton!"
    }
  
     return (
