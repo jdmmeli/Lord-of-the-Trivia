@@ -12,4 +12,6 @@ Css for styling. I tried to give the app a little bit of the ancient and magical
 
 Github repository: https://github.com/jdmmeli/Lord-of-the-Trivia
 
-![LOTT](./Assets/screenshot1.png)
+![screenshot1](https://user-images.githubusercontent.com/59904538/111398722-62774000-869a-11eb-9cd0-21e50ca871a9.PNG)
+![screenshot2](https://user-images.githubusercontent.com/59904538/111398750-6e630200-869a-11eb-9e5f-65606760ae9b.PNG)
+![screenshot3](https://user-images.githubusercontent.com/59904538/111398775-76bb3d00-869a-11eb-9ebd-6d46b3d12c9e.PNG)
