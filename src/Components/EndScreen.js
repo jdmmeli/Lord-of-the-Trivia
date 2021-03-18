@@ -9,8 +9,14 @@ function EndScreen() {
         setScore(0);
         setGameState("menu")
     }
+    const perfectScore = () => {
+        if (score === 10) {
+            setGameState("perfectscorescreen")
+        }
+    }
+    perfectScore()
 let destination;
-   if(score >= 8) {
+   if(score >= 8 && score < 10) {
        destination = "Behold, Valinor! The Undying Lands!"
    } else if (score >= 6 && score < 8) {
        destination = "Hail, and welcome to Numenor, hardy traveler!"

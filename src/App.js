@@ -6,6 +6,7 @@ import EndScreen from "./Components/EndScreen";
 import { QuizContext } from "./Helpers/Contexts";
 import Header from "./Components/Header"
 import { Container } from 'react-bootstrap';
+import PerfectScoreScreen from './Components/PerfectScoreScreen';
 
 
 function App() {
@@ -21,6 +22,8 @@ function App() {
         {gameState === "menu" && <MainMenu />}
         {gameState === "quiz" && <Quiz />}
         {gameState === "endscreen" && <EndScreen />}
+        {gameState === "perfectscorescreen" && <PerfectScoreScreen />}
+
       </QuizContext.Provider>
       </Container>
 

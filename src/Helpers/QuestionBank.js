@@ -5,7 +5,7 @@ export const Questions = [
         optionB: "111",
         optionC: "50",
         optionD: "44",
-        answer: "C"
+        answer: "optionC"
     },
     {
         prompt: "What was Gandalf's name in Valinor?",
@@ -13,7 +13,7 @@ export const Questions = [
         optionB: "Curunir",
         optionC: "Mairon",
         optionD: "Eonwe",
-        answer: "A"
+        answer: "optionA"
     },
     {
         prompt: "Who was Gimli's father?",
@@ -21,7 +21,7 @@ export const Questions = [
         optionB: "Bombur",
         optionC: "Thorin",
         optionD: "Gloin",
-        answer: "D"
+        answer: "optionD"
     },
     {
         prompt: "Where did Durin the Deathless awaken?",
@@ -29,7 +29,7 @@ export const Questions = [
         optionB: "Mount Gundabad",
         optionC: "Khazad-dum",
         optionD: "Belegost",
-        answer: "B"
+        answer: "optionB"
     },
     {
         prompt: "Which king of Rohan had the epithet 'Hammerhand'?",
@@ -37,7 +37,7 @@ export const Questions = [
         optionB: "Helm",
         optionC: "Theoden",
         optionD: "Eomer",
-        answer: "B"
+        answer: "optionB"
     },
     {
         prompt: "What was the name of the first dragon?",
@@ -45,7 +45,7 @@ export const Questions = [
         optionB: "Ancalagon",
         optionC: "Smaug",
         optionD: "Gothmog",
-        answer: "A"
+        answer: "optionA"
     },
     {
         prompt: "Which of the Valar was the last to descend to Arda?",
@@ -53,7 +53,7 @@ export const Questions = [
         optionB: "Mandos",
         optionC: "Tulkas",
         optionD: "Varda",
-        answer: "C"
+        answer: "optionC"
     },
     {
         prompt: "What city did Turgon found?",
@@ -61,7 +61,7 @@ export const Questions = [
         optionB: "Nogrod",
         optionC: "Gondolin",
         optionD: "Menegroth",
-        answer: "C"
+        answer: "optionC"
     },
     {
         prompt: "Where was Frodo originally from?",
@@ -69,7 +69,7 @@ export const Questions = [
         optionB: "Buckland",
         optionC: "Tuckborough",
         optionD: "Michel Delving",
-        answer: "B"
+        answer: "optionB"
     },
     {
         prompt: "In which battle was Azog slain?",
@@ -77,6 +77,6 @@ export const Questions = [
         optionB: "Battle of the Five Armies",
         optionC: "Battle of Azanulbizar",
         optionD: "Battle of the Pelennor Fields",
-        answer: "C"
+        answer: "optionC"
     }
 ]

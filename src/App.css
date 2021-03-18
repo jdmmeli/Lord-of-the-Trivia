@@ -10,7 +10,7 @@
  
 }
 
-.Menu, .quiz, .endScreen {
+.Menu, .quiz, .endScreen, .perfect {
   width: 700px;
   height: 500px;
   border-radius: 10px;
