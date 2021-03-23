@@ -32,7 +32,7 @@ export const Questions = [
         answer: "optionB"
     },
     {
-        prompt: "Which king of Rohan had the epithet 'Hammerhand'?",
+        prompt: `Which king of Rohan had the epithet "Hammerhand"?`,
         optionA: "Grima",
         optionB: "Helm",
         optionC: "Theoden",

@@ -8,6 +8,14 @@ React.js
 useState and UseContext are used to create a global state.
 Css for styling. I tried to give the app a little bit of the ancient and magical feel of Tolkiens works through the styling.
 
+## Future Development
+
+- Adding a user name input
+- Allowing user to choose a race i.e. elf, orc, dwarf, hobbit, man or troll
+- Having different starting and ending locations depending upon race chosen
+- Adding more levels, in which questions increase in difficulty
+- Making the app responsive, which it currently is not
+
 ## Links
 
 Github repository: https://github.com/jdmmeli/Lord-of-the-Trivia

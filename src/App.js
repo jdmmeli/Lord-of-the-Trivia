@@ -5,8 +5,8 @@ import Quiz from "./Components/Quiz";
 import EndScreen from "./Components/EndScreen";
 import { QuizContext } from "./Helpers/Contexts";
 import Header from "./Components/Header"
-import { Container } from 'react-bootstrap';
 import PerfectScoreScreen from './Components/PerfectScoreScreen';
+
 
 
 function App() {
@@ -14,20 +14,17 @@ function App() {
   const [score, setScore] = useState(0)
 
   return (
+    
     <div className="App">
-
       <Header />
-      <Container className="Container">
       <QuizContext.Provider value={{ gameState, setGameState, score, setScore }}>
         {gameState === "menu" && <MainMenu />}
         {gameState === "quiz" && <Quiz />}
         {gameState === "endscreen" && <EndScreen />}
         {gameState === "perfectscorescreen" && <PerfectScoreScreen />}
-
-      </QuizContext.Provider>
-      </Container>
-
+     </QuizContext.Provider>
     </div>
+  
   );
 }
 

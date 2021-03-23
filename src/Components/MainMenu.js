@@ -3,7 +3,8 @@ import { QuizContext } from "../Helpers/Contexts";
 
 
 function MainMenu() {
-    const {gameState, setGameState} = useContext(QuizContext)
+    const {gameState, setGameState, setUserName, userName} = useContext(QuizContext)
+   
     return(
         <div className="Menu">
             <h1>Mae govannen!</h1>
@@ -12,6 +13,7 @@ function MainMenu() {
             >Begin Your Journey
             </button>
         </div>
+        
     )
 }
 
