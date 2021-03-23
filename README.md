@@ -22,4 +22,5 @@ Github repository: https://github.com/jdmmeli/Lord-of-the-Trivia
 
 ![screenshot1](https://user-images.githubusercontent.com/59904538/111398722-62774000-869a-11eb-9cd0-21e50ca871a9.PNG)
 ![screenshot2](https://user-images.githubusercontent.com/59904538/111398750-6e630200-869a-11eb-9e5f-65606760ae9b.PNG)
-![screenshot3](https://user-images.githubusercontent.com/59904538/111398775-76bb3d00-869a-11eb-9ebd-6d46b3d12c9e.PNG)
+![perfect](https://user-images.githubusercontent.com/59904538/112076249-6dc1e400-8b50-11eb-93bf-c6476d2858e0.PNG)
+![frogmorton](https://user-images.githubusercontent.com/59904538/112076261-74505b80-8b50-11eb-88ee-f8d71c1167d9.PNG)
